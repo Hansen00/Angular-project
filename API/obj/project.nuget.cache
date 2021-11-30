@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ywQeU2DzNf1+nDhURw572FcHZtygBxMUQT4wGxywHjV/4mOKspxpo/t8v6+0pE+WN3fViuAbfIJ6TKcB0Ki68Q==",
+  "dgSpecHash": "BJMaJ63no0udDCogKoutbLk1V+9qtyn7dyExrUKLqEJ8OCpay+T6ZKF5+mGHqvIaTa5g+V6dNxNu1ei7kCtlOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zbcsibh\\Desktop\\Angular project\\API\\API.csproj",
+  "projectFilePath": "c:\\Users\\zbcsibh\\Desktop\\Angular project\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zbcsibh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zbcsibh\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
